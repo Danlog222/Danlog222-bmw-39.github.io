@@ -7,3 +7,6 @@ Disabllow: /Admin
 Disabllow: *?page=
 Sitemap: /sitemap.xml
 User-agent:*
+Disallow: /Admin
+Disallow: *?page=
+Sitemap: /sitemap.xml
