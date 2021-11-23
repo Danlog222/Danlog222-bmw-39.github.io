@@ -212,7 +212,7 @@ button {
  footer {
     width: 99%;
     background: #3b3b3b;
-    padding-bottom: 60px;
+    padding-bottom: 130px;
     border:5px solid #696969;
     height: 30px;
     margin-top: 25px;
@@ -244,3 +244,14 @@ height: 440px;
 .txt-logo {
     color: white;
 }
+.button_vk img{
+    width: 60px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.social_group{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
