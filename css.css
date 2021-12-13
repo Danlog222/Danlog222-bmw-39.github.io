@@ -155,7 +155,7 @@ padding-top: 15px;
 
 .zagol {
   font-family:Comic Sans MS, Comic Sans, cursive;
-  font-size: 25px;
+  font-size: 35px;
   color: white;
   text-align: center;
 }
@@ -263,3 +263,14 @@ margin-left: auto;
 margin-right: auto;
 display: block;
 }
+ .biba a {
+  text-decoration: none;  
+  color: white; 
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px
+ } 
+ .biba {
+    width: 10000px;
+    font-size: 30px;
+ }
