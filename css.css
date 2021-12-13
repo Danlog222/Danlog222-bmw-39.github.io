@@ -254,4 +254,19 @@ height: 440px;
     margin: 0 auto;
     justify-content: center;
 }
-
+.ulogin-button-vkontakte {
+    margin: -142px 0px 10px 1075px;
+    padding: 0px;
+    outline: none;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+    float: left;
+    display: inherit;
+    width: 32px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+    box-sizing: content-box;
+    background: url(https://ulogin.ru/version/3.0/img/providers-32-classic.png?version=img.3.0.2) 0px -36px / 32px no-repeat;
+}
